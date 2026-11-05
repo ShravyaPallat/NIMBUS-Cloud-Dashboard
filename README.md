@@ -151,4 +151,4 @@ NIMBUS/
 NIMBUS provides an interactive interface for exploring cloud workload scheduling and infrastructure optimization results.
 
 It brings the simulation engine's outputs into a unified dashboard, making algorithm comparisons, resource utilization, workload allocation, and estimated energy consumption easier to understand and demonstrate.
-Check out the app: https://nimbus-cloud-dashboard.streamlit.app/Infrastructure
+Check out the app: https://nimbus-cloud-dashboard.streamlit.app
